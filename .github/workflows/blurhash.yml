@@ -13,7 +13,7 @@ jobs:
      - uses: dart-lang/setup-dart@v1
      - name: Build blurhash
        working-directory: .github/workflows/blurhash/jackboxutility_blurhash
-       run: dart pub get && dart run jackboxutility_blurhash.dart https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-es/main/api/v2/packs.json https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-es/main/assets
+       run: dart pub get && dart run jackboxutility_blurhash.dart https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-Testing-es/main/api/v2/packs.json https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-Testing-es/main/assets
      - uses: actions/upload-artifact@v3
        with:
           name: blurHashes.json

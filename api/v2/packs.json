@@ -2483,7 +2483,7 @@
             "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
         },
         "executables":{
-            "windows":"Content/TJPP7.exe",
+            "windows":"TJPP7.exe",
             "mac":"The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
             "linux":"Launcher.sh"
         },
@@ -3220,7 +3220,7 @@
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
         },
         "executables":{
-            "windows":"Content/TJPP9.exe",
+            "windows":"TJPP9.exe",
             "mac":"The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
             "linux":"Launcher.sh"
         },
@@ -3581,7 +3581,7 @@
             "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
         },
         "executables": {
-            "windows": "Content/TJPP10.exe",
+            "windows": "TJPP10.exe",
             "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
             "linux": "Launcher.sh"
         },
@@ -3928,7 +3928,7 @@
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
         },
         "executables":{
-            "windows":"Content/TJPS.exe",
+            "windows":"TJPS.exe",
             "mac":"The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
             "linux":"Launcher.sh"
         },

@@ -2,7 +2,7 @@
     "id":"jackbox-es-test",
     "name":"Jackbox en español (Testeos)",
     "description":"Servidor de testeo de Jackbox en español.",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-es/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-Testing-es/main/assets/news_images/logo.png",
 
     "urls":[
         {
