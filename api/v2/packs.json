@@ -2593,7 +2593,7 @@
                 },
                 {
                     "id":"cursedpoints_es",
-                    "name":"Traducción al Español Latino",
+                    "name":"Cursed Points",
                     "small_description":"¡Mod traducido al español!",
                     "description":"",
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/561.15-ES/CursedPointAdditionsES-CapyV1-ES.zip",
