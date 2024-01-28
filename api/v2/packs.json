@@ -2854,8 +2854,8 @@
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Charlas locas",
-                    "small_description":"Charlas locas",
+                    "tagline":"Charlas curseadas",
+                    "small_description":"Charlas curseadas",
                     "description":"Da una charla sobre imágenes cursed que nunca has visto antes. No importa si tiene sentido, ¡es más divertido si no lo tiene!",
                     "images":[
 			            "game_images/TalkingPoints/cursedpoints.mp4",
