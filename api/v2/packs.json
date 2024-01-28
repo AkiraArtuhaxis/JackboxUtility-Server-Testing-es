@@ -5071,7 +5071,7 @@
     {
         "id":"pppts",
         "name":"Paper Pirates",
-        "description":"Year of release: 2020",
+        "description":"¡Encuentra los fantasmas!",
         "launchers_id":{
             "steam":"1234220"
         },
@@ -5100,24 +5100,24 @@
                         "min":1,
                         "max":10
                     },
-                    "length":"20 - 30 minutes",
+                    "length":"20 - 30 minutos",
                     "playtime":{
                         "min":20,
                         "max":30
                     },
                     "family_friendly":"FAMILY_FRIENDLY",
                     "audience":true,
-                    "audience_description":"The audience can vote to increase the chance certain events happen each day, and choose the pirate they think is a ghost to help the crew out.",
+                    "audience_description":"El público puede votar para aumentar las posibilidades de que ciertos eventos sucedan cada día y elegir al pirata que creen que es un fantasma para ayudar a la tripulación.",
                     "stream_friendly":"PLAYABLE",
-                    "stream_friendly_description":"Being a discussion game, it's recommended for players to be able to at least hear each other. Unlike the other discussion games, however, this game works perfectly without out loud talking.",
+                    "stream_friendly_description":"Al ser un juego de discusión, se recomienda que los jugadores puedan al menos escucharse entre ellos. Sin embargo, a diferencia de los demás, el juego funciona perfectamente sin hablar en voz alta.",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"This game doesn't require moderation.",
+                    "moderation_description":"Este juego no requiere moderación.",
                     "subtitles":false,
                     "type":"COOP",
                     "translation":"ENGLISH",
-                    "tagline":"Find the ghosts!",
-                    "small_description":"Find the ghosts!",
-                    "description":"Grab a crew and jump aboard a haunted pirate ship for a social deduction party game! Are you a human sailing home to shore or a ghost working against the crew? Throw your crewmates overboard, but fear not - nobody’s ever out of the game!",
+                    "tagline":"¡Encuentra los fantasmas!",
+                    "small_description":"¡Encuentra los fantasmas!",
+                    "description":"¡Reúne una tripulación y súbete a un barco pirata embrujado para disfrutar de un juego de deducción social! ¿Eres un humano que navega de regreso a la costa o un fantasma que trabaja contra la tripulación? Tira a tus compañeros de tripulación por la borda, pero no temas: ¡nadie quedará fuera del juego!",
                     "images":[
                         "game_images/PaperPirates/paperpirates.mp4",
                         "game_images/PaperPirates/paperpirates_1.jpg",
@@ -5142,7 +5142,7 @@
     {
         "id":"ppqz",
         "name":"Papa's Quiz",
-        "description":"Year of release: 2020",
+        "description":"¡Prueba tu conocimiento!",
         "launchers_id":{
             "steam":"1484730"
         },
@@ -5180,13 +5180,13 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"This game doesn't require moderation.",
+                    "moderation_description":"Este juego no requiere moderación.",
                     "subtitles":true,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Test your trivia skills!",
-                    "small_description":"Test your trivia skills!",
-                    "description":"Papa’s Quiz is a party game for 1-8 players. Use phones or tablets as controllers and compete in multiple question types, where the smartest and fastest player will be the last standing victor!",
+                    "tagline":"¡Prueba tu conocimiento!",
+                    "small_description":"¡Prueba tu conocimiento!",
+                    "description":"Papa's Quiz es un juego de fiestas para 1 a 8 jugadores. Usa teléfonos o tablets como controladores y compite en múltiples tipos de preguntas, donde el jugador más inteligente y rápido será el último vencedor.",
                     "images":[
                         "game_images/PapasQuiz/papasquiz.mp4",
                         "game_images/PapasQuiz/papasquiz_1.jpg",
