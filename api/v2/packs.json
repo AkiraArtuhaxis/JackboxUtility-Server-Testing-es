@@ -2483,7 +2483,7 @@
             "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
         },
         "executables":{
-            "windows":"The Jackbox Party Pack 7.exe",
+            "windows":"TJPP7.exe",
             "mac":"The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
             "linux":"Launcher.sh"
         },
@@ -3282,7 +3282,7 @@
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
         },
         "executables":{
-            "windows":"The Jackbox Party Pack 9.exe",
+            "windows":"TJPP9.exe",
             "mac":"The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
             "linux":"Launcher.sh"
         },
