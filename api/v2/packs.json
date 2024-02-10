@@ -5125,7 +5125,7 @@
         },
         "executables":{
             "windows":"Paper Pirates.exe",
-            "mac":"Paper Pirates.app/Contents/MacOS/Paper Pirates.app",
+            "mac":"Paper Pirates.app/Contents/MacOS/Paper Pirates",
             "linux":"Paper Pirates.exe"
         },
         "configuration":{
@@ -5196,7 +5196,7 @@
         },
         "executables":{
             "windows":"Papa’s Quiz.exe",
-            "mac":"Papa’s Quiz.app/Contents/MacOS/Papa’s Quiz.app",
+            "mac":"Papa’s Quiz.app/Contents/MacOS/Papa’s Quiz",
             "linux":"Papa’s Quiz.exe"
         },
         "configuration":{
