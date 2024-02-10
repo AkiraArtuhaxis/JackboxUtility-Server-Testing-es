@@ -4656,7 +4656,7 @@
             "version_property":"buildVersion"
         },
         "resource_location":{
-            "mac":"Quiplash 2 InterLASHional.app/Contents/Resources/macos"
+            "mac":"Drawful 2.app/Contents/Resources/macos"
         },
         "store_links":{
             "steam":"https://store.steampowered.com/app/442070/Drawful_2/",
@@ -4786,7 +4786,7 @@
         },
         "executables":{
             "windows":"uyw.exe",
-            "mac":"Use Your Words.app/Contents/MacOS/uyw",
+            "mac":"uyw.app/Contents/MacOS/uyw",
             "linux":"uyw.exe"
         },
         "configuration":{
@@ -4795,7 +4795,7 @@
             "version_property":"buildVersion"
         },
         "resource_location":{
-            "mac":"Use Your Words.app"
+            "mac":"uyw.app"
         },
         "store_links":{
             "steam":"https://store.steampowered.com/app/521350/Use_Your_Words/"
