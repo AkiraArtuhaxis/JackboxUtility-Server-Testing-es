@@ -4020,7 +4020,7 @@
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
         },
         "executables":{
-            "windows":"The Jackbox Party Starter.exe",
+            "windows":"TJPS.exe",
             "mac":"The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
             "linux":"Launcher.sh"
         },
