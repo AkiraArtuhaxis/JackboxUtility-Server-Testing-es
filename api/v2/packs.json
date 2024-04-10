@@ -194,7 +194,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpp1/ydkj2015.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                     
@@ -239,7 +239,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpp1/drawful.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                     
@@ -327,7 +327,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpp1/lieswatter.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                     
@@ -372,7 +372,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpp1/fibbagexl.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                     
