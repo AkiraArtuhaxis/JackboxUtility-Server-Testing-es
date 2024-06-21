@@ -4026,7 +4026,7 @@
         },
         "loader":{
             "path":"loaders/tjpstarter/default.zip",
-            "version":"1.0.0"
+            "version":"1.0.1"
         },
         "configuration":{
 	        "version_origin":"game_file",
@@ -4144,7 +4144,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpstarter/quiplash3.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                 ]
@@ -4191,7 +4191,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpstarter/teeko.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                 ]
@@ -4238,7 +4238,7 @@
                 },
                 "loader":{
                     "path":"loaders/tjpstarter/triviamurderparty2.zip",
-                    "version":"1.0.0"
+                    "version":"1.0.1"
                 },
                 "patchs":[
                     
