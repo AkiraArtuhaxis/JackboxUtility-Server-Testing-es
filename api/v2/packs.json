@@ -2698,10 +2698,10 @@
                     "name":"Cursed Points",
                     "small_description":"¡Mod traducido al español!",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/561.22-ES/CursedPointsAdditionES-CapyV1-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/7.1-ES/CursedPointsAdditionES-CapyV1-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
