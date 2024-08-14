@@ -66,7 +66,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
                 "steam": "jbg.config.jet",
@@ -237,6 +237,7 @@
             {
                 "id":"ydkj2015",
                 "name":"You Don't Know Jack 2015",
+                "internal_name": "YDKJ2015",
                 "background":"game_backgrounds/YDKJ2015.webp",
                 "path":"games/YDKJ2015",
                 "game_info":{
@@ -277,6 +278,11 @@
                     "path":"loaders/tjpp1/ydkj2015.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -284,6 +290,7 @@
             {
                 "id":"drawful",
                 "name":"Drawful",
+                "internal_name":"Drawful",
                 "background":"game_backgrounds/Drawful.webp",
                 "path":"games/Drawful",
                 "game_info":{
@@ -322,6 +329,11 @@
                     "path":"loaders/tjpp1/drawful.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -329,6 +341,7 @@
             {
                 "id":"wordspud",
                 "name":"Papa Palabra",
+                "internal_name":"WordSpud",
                 "background":"game_backgrounds/WordSpud.webp",
                 "path":"games/WordSpud",
                 "game_info":{
@@ -366,6 +379,11 @@
                     "path":"loaders/tjpp1/wordspud.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -373,6 +391,7 @@
             {
                 "id":"lieswatter",
                 "name":"Mata Mentiras",
+                "internal_name":"LieSwatterParty",
                 "background":"game_backgrounds/LieSwatter.webp",
                 "path":"games/LieSwatter",
                 "game_info":{
@@ -410,6 +429,11 @@
                     "path":"loaders/tjpp1/lieswatter.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -417,6 +441,7 @@
             {
                 "id":"fibbagexl",
                 "name":"Fibbage XL",
+                "internal_name":"FibbageXL",
                 "background":"game_backgrounds/FibbageXL.webp",
                 "path":"games/FibbageXL",
                 "game_info":{
@@ -455,6 +480,11 @@
                     "path":"loaders/tjpp1/fibbagexl.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -482,7 +512,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
@@ -501,7 +531,7 @@
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/releases/latest/download/JPP2-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/Main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
@@ -588,6 +618,7 @@
             {
                 "id":"fibbage2",
                 "name":"Fibbage 2",
+                "internal_name":"Fibbage2",
                 "background":"game_backgrounds/Fibbage2.webp",
                 "path":"games/Fibbage2",
                 "game_info":{
@@ -629,6 +660,11 @@
                     "path":"loaders/tjpp2/fibbage2.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -636,6 +672,7 @@
             {
                 "id":"earwax",
                 "name":"Earwax",
+                "internal_name":"Earwax",
                 "background":"game_backgrounds/Earwax.webp",
                 "path":"games/Earwax",
                 "game_info":{
@@ -676,6 +713,11 @@
                     "path":"loaders/tjpp2/earwax.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -683,6 +725,7 @@
             {
                 "id":"bidiots",
                 "name":"Subastardos",
+                "internal_name":"Auction",
                 "background":"game_backgrounds/Bidiots.webp",
                 "path":"games/Bidiots",
                 "game_info":{
@@ -723,6 +766,11 @@
                     "path":"loaders/tjpp2/bidiots.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -730,6 +778,7 @@
             {
                 "id":"quiplashxl",
                 "name":"Quiplash XL",
+                "internal_name":"QuiplashXL",
                 "background":"game_backgrounds/QuiplashXL.webp",
                 "path":"games/QuiplashXL",
                 "game_info":{
@@ -770,12 +819,18 @@
                     "path":"loaders/tjpp2/quiplashxl.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
             },            {
                 "id":"bombcorp",
                 "name":"Bomba S.A.",
+                "internal_name":"BombInterns",
                 "game_info":{
                     "players":{
                         "min":1,
@@ -816,6 +871,11 @@
                     "path":"loaders/tjpp2/bombcorp.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -844,7 +904,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
@@ -863,105 +923,9 @@
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/releases/latest/download/JPP3-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
-                    "supported_platforms": [
-						"linux","windows"
-                    ],
-                    "components":[
-                {
-                            "id":"quiplash2_patch",
-                            "linked_game":"quiplash2",
-                            "name":"Quiplash 2",
-                            "description":"",
-                            "authors":"* Akira896",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                        {
-                            "id":"triviamurderparty_patch",
-                            "linked_game":"triviamurderparty",
-                            "name":"Trivia Murder Party",
-                            "description":"",
-                            "authors":"* Pachekin y Fukken Hanzel (traducción)\n* Akira896 (SWFs)\n* Fixed Fun (imágenes adicionales)\n* Eleiber (Jackbox.lol)",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                {
-                            "id":"guesspionage_patch",
-                            "linked_game":"guesspionage",
-                            "name":"Espiadivinos",
-                            "description":"",
-                            "authors":"* Akira896",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                {
-                            "id":"fakinit_patch",
-                            "linked_game":"fakinit",
-                            "name":"¡Engáñame!",
-                            "description":"",
-                            "authors":"Traducción\n* Artuhaxis (traducción)\n* Akira896 (SWFs)\n* Markmtz90 (imágenes)\n* Fixed Fun (logo)\nDoblaje\n* Fausto Serra (anfitrión)\n* Akira896 (supervisión del doblaje, adaptación a latino y recorte y ecualización de audios)\n* Artuhaxis (adaptación a latino y recorte y ecualización de audios)",
-                            "small_description":"¡Juego traducido y doblado al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":true
-                            }
-                        },
-                {
-                            "id":"teeko_patch",
-                            "linked_game":"teeko",
-                            "name":"Tee K.O.",
-                            "description":"",
-                            "authors":"* Akira896\n* Artuhaxis",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        }
-                    ]
-                    
-                },
-                {
-                    "id":"jpp3_es_mac_steam",
-                    "name":"Traducción al Español Latino [Mac]",
-                    "small_description":"Pack 100% traducido.\n¡Engáñame! cuenta con doblaje latino.",
-                    "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/releases/latest/download/JPP3-ES-MAC-STEAM.zip",
-                    "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main[Mac][Steam]/config.jet",
-						"version_property":"buildVersion"
-					},
-                    "supported_platforms": [
-						"mac"
-                    ],
                     "components":[
                 {
                             "id":"quiplash2_patch",
@@ -1046,6 +1010,7 @@
             {
                 "id":"quiplash2",
                 "name":"Quiplash 2",
+                "internal_name":"Quiplash2",
                 "background":"game_backgrounds/Quiplash2.webp",
                 "path":"games/Quiplash2",
                 "game_info":{
@@ -1086,6 +1051,11 @@
                     "path":"loaders/tjpp3/quiplash2.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1093,6 +1063,7 @@
             {
                 "id":"triviamurderparty",
                 "name":"Trivia Murder Party",
+                "internal_name":"triviadeath",
                 "background":"game_backgrounds/TriviaMurderParty.webp",
                 "path":"games/TriviaMurderParty",
                 "game_info":{
@@ -1133,6 +1104,11 @@
                     "path":"loaders/tjpp3/triviamurderparty.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1140,6 +1116,7 @@
             {
                 "id":"guesspionage",
                 "name":"Espiadivinos",
+                "internal_name":"PollPosition",
                 "background":"game_backgrounds/Guesspionage.webp",
                 "path":"games/Guesspionage",
                 "game_info":{
@@ -1180,6 +1157,11 @@
                     "path":"loaders/tjpp3/guesspionage.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1187,6 +1169,7 @@
             {
                 "id":"fakinit",
                 "name":"¡Engáñame!",
+                "internal_name":"FakinIt",
                 "background":"game_backgrounds/FakinIt.webp",
                 "path":"games/FakinIt",
                 "game_info":{
@@ -1229,6 +1212,11 @@
                     "path":"loaders/tjpp3/fakinit.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1236,6 +1224,7 @@
             {
                 "id":"teeko",
                 "name":"Tee K.O.",
+                "internal_name":"AwShirt",
                 "background":"game_backgrounds/TeeKO.webp",
                 "path":"games/TeeKO",
                 "game_info":{
@@ -1277,6 +1266,11 @@
                     "path":"loaders/tjpp3/teeko.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1304,7 +1298,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
@@ -1323,105 +1317,9 @@
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/releases/latest/download/JPP4-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/main/Main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
-                    "supported_platforms": [
-						"linux","windows"
-                    ],
-                    "components":[
-                {
-                            "id":"fibbage3_patch",
-                            "linked_game":"fibbage3",
-                            "name":"Fibbage 3",
-                            "description":"",
-                            "authors":"Fibbage 3\n* Artuhaxis y Fukken Hanzel (traducción principal)\n* damian29, diegoflg3, Akira896, Markmtz90 y Alonsinwhat (traducción asistente)\n* P4ND4_1100010 (ayuda adicional)\n* Akira896 (SWFs)\nMentiras sobre ti\n* Artuhaxis y Akira896 (traducción)\n* Fixed Fun (logo)",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                        {
-                            "id":"survivetheinternet_patch",
-                            "linked_game":"survivetheinternet",
-                            "name":"Sobrevive al Internet",
-                            "description":"",
-                            "authors":"Traducción\n* Akira896\n* Artuhaxis (imágenes adicionales); Fixed Fun (logo)\nDoblaje\n* Akira896 (anfitrión)\n* Artuhaxis (traducción del guion)\n* maritomomomemardo (voz de tutorial)\n* Artuhaxis (Gene)",
-                            "small_description":"¡Juego traducido y doblado al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":true
-                            }
-                        },
-                {
-                            "id":"monsterseekingmonster_patch",
-                            "linked_game":"monsterseekingmonster",
-                            "name":"Monstruo Busca Monstruo",
-                            "description":"",
-                            "authors":"Traducción\n* Artuhaxis y Akira896\n* Fixed Fun (logo)\nDoblaje\n* Rocío Benítez Blasco (anfitriona)\n* Eleiber (traducción del guion)\n* Artuhaxis (recorte y ecualización de audios)\n* Akira896 (suprevisión del doblaje, cantante, voz de marioneta y ecualización de audios)\n* Nahuel Guidi (cantante)",
-                            "small_description":"¡Juego traducido y doblado al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":true
-                            }
-                        },
-                {
-                            "id":"bracketeering_patch",
-                            "linked_game":"bracketeering",
-                            "name":"Bracketeering",
-                            "description":"",
-                            "authors":"* Akira896 (traducción principal y archivos SWF)\n* Raúl Mora y Artuhaxis (traducción)\n* Fixed Fun (logo)",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                {
-                            "id":"civicdoodle_patch",
-                            "linked_game":"civicdoodle",
-                            "name":"Garabato Cívico",
-                            "description":"",
-                            "authors":"Traducción\n* Akira896 (traducción)\n* Artuhaxis (imágenes adicionales)\n* Fixed Fun (logo)\nDoblaje\n* Ana Fernández y BinaryPie (anfitriones)\n* Eleiber (traducción del guion)\n* Akira896 (supervisión y voces adicionales)\n* maritomomomemardo, Artuhaxis, ner0, Vanesa Peralta, Guillermina Marín, Rocío Benítez Blasco y Camila Iriart (voces adicionales)",
-                            "small_description":"¡Juego traducido y doblado al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":true
-                            }
-                        }
-                    ]
-                    
-                },
-                {
-                    "id":"jpp4_es_mac_steam",
-                    "name":"Traducción al Español Latino [Mac]",
-                    "small_description":"Pack 100% traducido.\nSobrevive al Internet, Monstruo Busca Monstruo y Garabato Cívico cuentan con doblaje latino.",
-                    "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/releases/latest/download/JPP4-ES-MAC-STEAM.zip",
-                    "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/main/Main/config.jet",
-						"version_property":"buildVersion"
-					},
-                    "supported_platforms": [
-						"mac"
-                    ],
                     "components":[
                 {
                             "id":"fibbage3_patch",
@@ -1506,6 +1404,7 @@
             {
                 "id":"fibbage3",
                 "name":"Fibbage 3",
+                "internal_name":"Fibbage3",
                 "background":"game_backgrounds/Fibbage3.webp",
                 "path":"games/Fibbage3",
                 "game_info":{
@@ -1547,6 +1446,11 @@
                     "path":"loaders/tjpp4/fibbage3.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1554,6 +1458,7 @@
             {
                 "id":"survivetheinternet",
                 "name":"Sobrevive al Internet",
+                "internal_name":"SurviveTheInternet",
                 "background":"game_backgrounds/SurviveTheInternet.webp",
                 "path":"games/SurviveTheInternet",
                 "game_info":{
@@ -1594,6 +1499,11 @@
                     "path":"loaders/tjpp4/survivetheinternet.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1601,6 +1511,7 @@
             {
                 "id":"monsterseekingmonster",
                 "name":"Monstruo Busca Monstruo",
+                "internal_name":"MonsterMingle",
                 "background":"game_backgrounds/MonsterSeekingMonster.webp",
                 "path":"games/MonsterMingle",
                 "game_info":{
@@ -1642,6 +1553,11 @@
                     "path":"loaders/tjpp4/monsterseekingmonster.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1649,6 +1565,7 @@
             {
                 "id":"bracketeering",
                 "name":"Bracketeering",
+                "internal_name":"Bracketeering",
                 "background":"game_backgrounds/Bracketeering.webp",
                 "path":"games/Bracketeering",
                 "game_info":{
@@ -1689,6 +1606,11 @@
                     "path":"loaders/tjpp4/bracketeering.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1696,6 +1618,7 @@
             {
                 "id":"civicdoodle",
                 "name":"Garabato Cívico",
+                "internal_name":"Overdrawn",
                 "background":"game_backgrounds/CivicDoodle.webp",
                 "path":"games/CivicDoodle",
                 "game_info":{
@@ -1736,6 +1659,11 @@
                     "path":"loaders/tjpp4/civicdoodle.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -1763,7 +1691,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
@@ -1782,105 +1710,9 @@
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/releases/latest/download/JPP5-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/main/Main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
-                    "supported_platforms": [
-						"linux","windows"
-                    ],
-                    "components":[
-                {
-                            "id":"ydkj_fullstream_patch",
-                            "linked_game":"ydkj_fullstream",
-                            "name":"You Don't Know Jack: Full Stream",
-                            "description":"",
-                            "authors":"* Artuhaxis (traducción principal)\n* Akira896, Marti005 y stefano30 (traducción asistente)\n* Akira896 (SWFs)\n* Fixed Fun (videos e imágenes)",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                        {
-                            "id":"splittheroom_patch",
-                            "linked_game":"splittheroom",
-                            "name":"Divide la Sala",
-                            "description":"",
-                            "authors":"* Artuhaxis y Akira896 (traducción principal)\n* Eleiber, Raúl Mora, Nairoliv y Molonazo (traducción asistente)\n* Fixed Fun, Artuhaxis y Akira896 (imágenes)\n* Akira896 (SWFs y videos)",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                        {
-                            "id":"mad_verse_city_patch",
-                            "linked_game":"mad_verse_city",
-                            "name":"Mad Verse City",
-                            "description":"",
-                            "authors":"* Artuhaxis (traducción de rondas)\n* Akira896 (traducción de otros archivos y SWF)\n* Markmtz90 (imágenes)\n* P4ND4_1100010 (voces de los robots en español)\n* Fixed Fun (logo traducido)\n* Fukken Hanzel (traducción y revisión general restante)",
-                            "small_description":"¡Juego traducido al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":false
-                            }
-                        },
-                        {
-                            "id":"zeeple_dome_patch",
-                            "linked_game":"zeeple_dome",
-                            "name":"Zeeple Dome",
-                            "description":"",
-                            "authors":"Traducción\n* Artuhaxis y Akira896\nDoblaje\n* Walter Tassi (anfitrión)\n* Nahuel Guidi (introducción)\n* Akira896 (traducción, supervisión, ecualización)\n* Artuhaxis (supervisión)",
-                            "small_description":"¡Juego traducido y doblado al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":true
-                            }
-                        },
-                {
-                            "id":"patentlystupid_patch",
-                            "linked_game":"patentlystupid",
-                            "name":"Patentes Dementes",
-                            "description":"",
-                            "authors":"Traducción\n* Artuhaxis (enunciados)\n* Akira896 (SWF)\n* Fixed Fun (logo e imágenes adicionales)\nDoblaje\n* Fausto Serra (Tobías)\n* Ana Fernández (Lina)\n* Fixed Fun (guion)\n* Artuhaxis (guion y ecualización)\n* Akira896 (grabación y extra adicional)\n* Santiago Giordani, Rocío Benítez Blasco, Tomás Serio (baristas)\n* Artuhaxis (Gene)\n* maritomomomemardo, Ernesto Fernández, ner0, Camila Iriart, Trinidad González (extras adicionales)\n* Nahuel Guidi (cantante de créditos)",
-                            "small_description":"¡Juego traducido y doblado al español!",
-                            "patch_type":{
-                                "game_text":true,
-                                "game_assets":true,
-                                "game_subtitles":false,
-                                "website":true,
-                                "audios":true
-                            }
-                        }
-                    ]
-                    
-                },
-                {
-                    "id":"jpp5_es_mac_steam",
-                    "name":"Traducción al Español Latino [Mac]",
-                    "small_description":"Pack 100% traducido.\nZeeple Dome y Patentes Dementes cuentan con doblaje latino.",
-                    "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/releases/latest/download/JPP5-ES-MAC-STEAM.zip",
-                    "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/main/Main/config.jet",
-						"version_property":"buildVersion"
-					},
-                    "supported_platforms": [
-						"mac"
-                    ],
                     "components":[
                 {
                             "id":"ydkj_fullstream_patch",
@@ -1965,6 +1797,7 @@
         	{
                 "id":"ydkj_fullstream",
                 "name":"You Don't Know Jack: Full Stream",
+                "internal_name":"YDKJ2018",
                 "background":"game_backgrounds/YDKJFullStream.webp",
                 "path":"games/YDKJ2018",
                 "game_info":{
@@ -2005,6 +1838,11 @@
                     "path":"loaders/tjpp5/ydkjfullstream.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2012,6 +1850,7 @@
             {
                 "id":"splittheroom",
                 "name":"Divide la Sala",
+                "internal_name":"SplitTheRoom",
                 "background":"game_backgrounds/SplitTheRoom.webp",
                 "path":"games/SplitTheRoom",
                 "game_info":{
@@ -2053,6 +1892,11 @@
                     "path":"loaders/tjpp5/splittheroom.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2060,6 +1904,7 @@
             {
                 "id":"mad_verse_city",
                 "name":"Mad Verse City",
+                "internal_name":"RapBattle",
                 "background":"game_backgrounds/MadVerseCity.webp",
                 "path":"games/RapBattle",
                 "game_info":{
@@ -2100,6 +1945,11 @@
                     "path":"loaders/tjpp5/madversecity.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2107,6 +1957,7 @@
             {
                 "id":"zeeple_dome",
                 "name":"Zeeple Dome",
+                "internal_name":"SlingShoot",
                 "background":"game_backgrounds/ZeepleDome.webp",
                 "path":"games/ZeepleDome",
                 "game_info":{
@@ -2147,6 +1998,11 @@
                     "path":"loaders/tjpp5/zeepledome.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2154,6 +2010,7 @@
             {
                 "id":"patentlystupid",
                 "name":"Patentes Dementes",
+                "internal_name":"PatentlyStupid",
                 "background":"game_backgrounds/PatentlyStupid.webp",
                 "path":"games/PatentlyStupid",
                 "game_info":{
@@ -2196,6 +2053,11 @@
                 "loader":{
                     "path":"loaders/tjpp5/patentlystupid.zip",
                     "version":"1.0.0"
+                },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
                 },
                 "patchs":[
                     
@@ -2330,6 +2192,7 @@
         	{
                 "id":"trivia_murder_party_2",
                 "name":"Trivia Murder Party 2",
+                "internal_name":"TriviaDeath2",
                 "background":"game_backgrounds/TriviaMurderParty2.webp",
                 "path":"games/TriviaMurderParty2",
                 "game_info":{
@@ -2371,6 +2234,11 @@
                     "path":"loaders/tjpp6/triviamurderparty2.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2378,6 +2246,7 @@
             {
                 "id":"role_models",
                 "name":"Modelo a Seguir",
+                "internal_name":"RoleModels",
                 "background":"game_backgrounds/RoleModels.webp",
                 "path":"games/RoleModels",
                 "game_info":{
@@ -2419,6 +2288,11 @@
                     "path":"loaders/tjpp6/rolemodels.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2426,6 +2300,7 @@
             {
                 "id":"jokeboat",
                 "name":"Crucero Cómico",
+                "internal_name":"Jokeboat",
                 "background":"game_backgrounds/JokeBoat.webp",
                 "path":"games/JokeBoat",
                 "game_info":{
@@ -2468,6 +2343,11 @@
                     "path":"loaders/tjpp6/jokeboat.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2475,6 +2355,7 @@
             {
                 "id":"dictionarium",
                 "name":"Diccionarium",
+                "internal_name":"Ridictionary",
                 "background":"game_backgrounds/Dictionarium.webp",
                 "path":"games/Ridictionary",
                 "game_info":{
@@ -2515,6 +2396,11 @@
                     "path":"loaders/tjpp6/dictionarium.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2522,6 +2408,7 @@
             {
                 "id":"pushthebutton",
                 "name":"Pulsa el Botón",
+                "internal_name":"PushTheButton",
                 "background":"game_backgrounds/PushTheButton.webp",
                 "path":"games/PushTheButton",
                 "game_info":{
@@ -2565,6 +2452,11 @@
                     "path":"loaders/tjpp6/pushthebutton.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -2592,7 +2484,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
@@ -2611,7 +2503,7 @@
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/latest/download/JPP7-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/Main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
@@ -2728,6 +2620,7 @@
             {
                 "id":"quiplash3",
                 "name":"Quiplash 3",
+                "internal_name":"Quiplash3",
                 "background":"game_backgrounds/Quiplash3.webp",
                 "path":"games/Quiplash3",
                 "game_info":{
@@ -2768,12 +2661,18 @@
                     "path":"loaders/tjpp7/quiplash3.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"thedevilsandthedetails",
                 "name":"La Familia es un Infierno",
+                "internal_name":"Everyday",
                 "background":"game_backgrounds/TheDevilsAndTheDetails.webp",
                 "path":"games/Everyday",
                 "game_info":{
@@ -2816,12 +2715,18 @@
                     "path":"loaders/tjpp7/thedevilsandthedetails.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"champdup",
                 "name":"Champ'd Up",
+                "internal_name":"WorldChampions",
                 "background":"game_backgrounds/Champdup.webp",
                 "path":"games/WorldChampions",
                 "game_info":{
@@ -2863,12 +2768,18 @@
                     "path":"loaders/tjpp7/champdup.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"talkingpoints",
                 "name":"Talking Points",
+                "internal_name":"JackboxTalks",
                 "background":"game_backgrounds/TalkingPoints.webp",
                 "path":"games/JackboxTalks",
                 "game_info":{
@@ -2911,12 +2822,18 @@
                     "path":"loaders/tjpp7/talkingpoints.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"blatherround",
                 "name":"Balbuceando Juntos",
+                "internal_name":"BlankyBlank",
                 "background":"game_backgrounds/BlatherRound.webp",
                 "path":"games/BlankyBlank",
                 "game_info":{
@@ -2958,12 +2875,18 @@
                     "path":"loaders/tjpp7/blatherround.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
                         {
                 "id":"cursedpoints",
                 "name":"Cursed Points",
+                "internal_name":"JackboxTalksCursed",
                 "background":"game_backgrounds/CursedPoints.webp",
                 "path":"games/JackboxTalksCursed",
                 "game_info":{
@@ -3006,6 +2929,11 @@
                     "path":"loaders/tjpp7/cursedpoints.zip",
                     "version":"1.0.1"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             }
@@ -3032,7 +2960,7 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"config.jet",
+            "version_file":"jbg.config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
@@ -3051,7 +2979,7 @@
                     "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/releases/latest/download/JPP8-ES.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/main/Main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
@@ -3138,6 +3066,7 @@
             {
                 "id":"drawful_animate",
                 "name":"Drawful: Animado",
+                "internal_name":"DrawfulAnimate",
                 "background":"game_backgrounds/DrawfulAnimate.webp",
                 "path":"games/DrawfulAnimate",
                 "game_info":{
@@ -3179,6 +3108,11 @@
                     "path":"loaders/tjpp8/drawfulanimate.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3186,6 +3120,7 @@
             {
                 "id":"the_wheel_of_enormous_proportions",
                 "name":"La Ruleta de Enormes Proporciones",
+                "internal_name":"TheWheel",
                 "background":"game_backgrounds/TheWheelOfEnormousProportions.webp",
                 "path":"games/TheWheel",
                 "game_info":{
@@ -3226,6 +3161,11 @@
                     "path":"loaders/tjpp8/thewheelofenormousproportions.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3233,6 +3173,7 @@
             {
                 "id":"jobjob",
                 "name":"Bajo Trabajo",
+                "internal_name":"JobGame",
                 "background":"game_backgrounds/JobJob.webp",
                 "path":"games/JobGame",
                 "game_info":{
@@ -3273,6 +3214,11 @@
                     "path":"loaders/tjpp8/jobjob.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3280,6 +3226,7 @@
             {
                 "id":"thepollmine",
                 "name":"The Poll Mine",
+                "internal_name":"SurveyBomb",
                 "background":"game_backgrounds/ThePollMine.webp",
                 "path":"games/SurveyBomb",
                 "game_info":{
@@ -3322,6 +3269,11 @@
                     "path":"loaders/tjpp8/thepollmine.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3329,6 +3281,7 @@
             {
                 "id":"weaponsdrawn",
                 "name":"Trazo del Crimen",
+                "internal_name":"MurderDetectives",
                 "background":"game_backgrounds/WeaponsDrawn.webp",
                 "path":"games/MurderDetectives",
                 "game_info":{
@@ -3370,6 +3323,11 @@
                     "path":"loaders/tjpp8/weaponsdrawn.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3387,7 +3345,7 @@
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
         },
         "executables":{
-            "windows":"TJPP9.exe",
+            "windows":"The Jackbox Party Pack 9.exe",
             "mac":"The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
             "linux":"Launcher.sh"
         },
@@ -3503,6 +3461,7 @@
             {
                 "id":"fibbage4",
                 "name":"Fibbage 4",
+                "internal_name":"Fibbage4",
                 "background":"game_backgrounds/Fibbage4.webp",
                 "path":"games/Fibbage4",
                 "game_info":{
@@ -3543,12 +3502,18 @@
                     "path":"loaders/tjpp9/fibbage4.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"roomerang",
                 "name":"Roomerang",
+                "internal_name":"MakeFriends",
                 "background":"game_backgrounds/Roomerang.webp",
                 "path":"games/MakeFriends",
                 "game_info":{
@@ -3589,6 +3554,11 @@
                     "path":"loaders/tjpp9/roomerang.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3596,6 +3566,7 @@
             {
                 "id":"junktopia",
                 "name":"Junktopia",
+                "internal_name":"AntiqueGame",
                 "background":"game_backgrounds/Junktopia.webp",
                 "path":"games/AntiqueGame",
                 "game_info":{
@@ -3638,6 +3609,11 @@
                     "path":"loaders/tjpp9/junktopia.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3645,6 +3621,7 @@
             {
                 "id":"nonsensory",
                 "name":"Nonsensory",
+                "internal_name":"Nonsensory",
                 "background":"game_backgrounds/Nonsensory.webp",
                 "path":"games/RangeGame",
                 "game_info":{
@@ -3685,6 +3662,11 @@
                     "path":"loaders/tjpp9/nonsensory.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3692,6 +3674,7 @@
             {
                 "id":"quixort",
                 "name":"Quixort",
+                "internal_name":"Lineup",
                 "background":"game_backgrounds/Quixort.webp",
                 "path":"games/Lineup",
                 "game_info":{
@@ -3733,6 +3716,11 @@
                     "path":"loaders/tjpp9/quixort.zip",
                     "version":"1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                     
                 ]
@@ -3751,7 +3739,7 @@
             "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
         },
         "executables": {
-            "windows": "TJPP10.exe",
+            "windows": "The Jackbox Party Pack 10.exe",
             "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
             "linux": "Launcher.sh"
         },
@@ -3868,6 +3856,7 @@
             {
                 "id": "teeko2",
                 "name": "Tee K.O. 2",
+                "internal_name":"AwShirt2",
                 "background": "game_backgrounds/TeeKO2.webp",
                 "path": "games/AwShirt2",
                 "game_info": {
@@ -3908,11 +3897,17 @@
                     "path": "loaders/tjpp10/teeko2.zip",
                     "version": "1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs": []
             },
             {
                 "id": "timejinx",
                 "name": "Timejinx",
+                "internal_name":"TimeTrivia",
                 "background": "game_backgrounds/Timejinx.webp",
                 "path": "games/TimeTrivia",
                 "game_info": {
@@ -3952,11 +3947,17 @@
                     "path": "loaders/tjpp10/timejinx.zip",
                     "version": "1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs": []
             },
             {
                 "id": "fixytext",
                 "name": "FixyText",
+                "internal_name":"RiskyText",
                 "background": "game_backgrounds/FixyText.webp",
                 "path": "games/RiskyText",
                 "game_info": {
@@ -3996,11 +3997,17 @@
                     "path": "loaders/tjpp10/fixytext.zip",
                     "version": "1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs": []
             },
             {
                 "id": "dodoremi",
                 "name": "Dodo Re Mi",
+                "internal_name":"NopusOpus",
                 "background": "game_backgrounds/DodoReMi.webp",
                 "path": "games/NopusOpus",
                 "game_info": {
@@ -4039,11 +4046,17 @@
                     "path": "loaders/tjpp10/dodoremi.zip",
                     "version": "1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs": []
             },
             {
                 "id": "hypnotorious",
                 "name": "Hypnotorious",
+                "internal_name":"Strangers",
                 "background": "game_backgrounds/Hypnotorious.webp",
                 "path": "games/Strangers",
                 "game_info": {
@@ -4086,6 +4099,11 @@
                     "path": "loaders/tjpp10/hypnotorious.zip",
                     "version": "1.0.0"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs": []
             }
         ],
@@ -4101,7 +4119,7 @@
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
         },
         "executables":{
-            "windows":"TJPS.exe",
+            "windows":"The Jackbox Party Starter.exe",
             "mac":"The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
             "linux":"Launcher.sh"
         },
@@ -4187,6 +4205,7 @@
             {
                 "id":"quiplash3_starter",
                 "name":"Quiplash 3",
+                "internal_name":"Quiplash3",
                 "background":"game_backgrounds/Quiplash3Starter.webp",
                 "path":"games/Quiplash3",
                 "game_info":{
@@ -4227,12 +4246,18 @@
                     "path":"loaders/tjpstarter/quiplash3.zip",
                     "version":"1.0.2"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"teeko_starter",
                 "name":"Tee K.O.",
+                "internal_name":"AwShirt",
                 "background":"game_backgrounds/TeeKOStarter.webp",
                 "path":"games/AwShirt",
                 "game_info":{
@@ -4274,12 +4299,18 @@
                     "path":"loaders/tjpstarter/teeko.zip",
                     "version":"1.0.2"
                 },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
+                },
                 "patchs":[
                 ]
             },
             {
                 "id":"trivia_murder_party_2_starter",
                 "name":"Trivia Murder Party 2",
+                "internal_name":"triviadeath2",
                 "background":"game_backgrounds/TriviaMurderParty2Starter.webp",
                 "path":"games/triviadeath2",
                 "game_info":{
@@ -4320,6 +4351,11 @@
                 "loader":{
                     "path":"loaders/tjpstarter/triviamurderparty2.zip",
                     "version":"1.0.2"
+                },
+                "launch_with_loaders":{
+                    "steam":false,
+                    "epic_games":true,
+                    "native":true
                 },
                 "patchs":[
                     
