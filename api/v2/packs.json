@@ -5503,10 +5503,10 @@
                     "description":"¡Adivina todo lo que puedas en esta competición de palabras! ¿Quieres hacerlo más interesante? ¡Prueba el modo equipos y juega en Competición!",
                     "images":[
                         "game_images/Charadas/charadas.mp4",
-                        "game_images/Charadas/charadas_1.jpg",
-                        "game_images/Charadas/charadas_2.jpg",
-                        "game_images/Charadas/charadas_3.jpg",
-                        "game_images/Charadas/charadas_4.jpg"
+                        "game_images/Charadas/charadas_1.webp",
+                        "game_images/Charadas/charadas_2.webp",
+                        "game_images/Charadas/charadas_3.webp",
+                        "game_images/Charadas/charadas_4.webp"
                     ],
                     "tags":[
                     	"knowledge"
