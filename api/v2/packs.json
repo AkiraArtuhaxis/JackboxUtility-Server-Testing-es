@@ -5451,6 +5451,74 @@
         ],
         "icon":"ppqz.ico",
         "background":"backgrounds/ppqz.jpg"
+    },
+    {
+        "id":"char",
+        "name":"Charadas",
+        "description":"¡Es hora de adivinar!",
+        "launchers_id":{
+            "steam":"FelipeArroyo"
+        },
+        "executables":{
+            "windows":"Charadas.exe",
+            "mac":"Charadas.app/Contents/MacOS/Charadas",
+            "linux":"Charadas.exe"
+        },
+        "configuration":{
+	        "version_origin":"game_file",
+            "version_file":"config.dat",
+            "version_property":"buildVersion"
+        },
+        "resource_location":{
+            "mac":"Charadas.app/Contents/Resources/Data"
+        },
+            "patchs":[],
+        "games":[
+            {
+                "id":"charadas",
+                "name":"Charadas",
+                "background":"game_backgrounds/Charadas.webp",
+                "path":"",
+                "game_info":{
+                    "players":{
+                        "min":1,
+                        "max":8
+                    },
+                    "length":"15 - 20 minutos",
+                    "playtime":{
+                        "min":15,
+                        "max":20
+                    },
+                    "family_friendly":"OPTIONAL",
+                    "audience":false,
+                    "stream_friendly":"PLAYABLE",
+                    "moderation":"FULL_MODERATION",
+                    "moderation_description":"Este juego no requiere moderación.",
+                    "subtitles":true,
+                    "type":"VERSUS",
+                    "translation":"ENGLISH",
+                    "tagline":"¡Es hora de adivinar!",
+                    "small_description":"¡Es hora de adivinar!",
+                    "description":"¡Adivina todo lo que puedas en esta competición de palabras! ¿Quieres hacerlo más interesante? ¡Prueba el modo equipos y juega Competición!",
+                    "images":[
+                        "game_images/Charadas/charadas.mp4",
+                        "game_images/Charadas/charadas_1.jpg",
+                        "game_images/Charadas/charadas_2.jpg",
+                        "game_images/Charadas/charadas_3.jpg",
+                        "game_images/Charadas/charadas_4.jpg"
+                    ],
+                    "tags":[
+                    	"knowledge"
+                    ]
+
+                },
+                "patchs":[
+                    
+                ]
+            }
+        ],
+        "icon":"char.ico",
+        "background":"backgrounds/char.jpg"
     }
 
 ]
