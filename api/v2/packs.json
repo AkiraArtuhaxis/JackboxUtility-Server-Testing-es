@@ -5482,24 +5482,25 @@
                 "game_info":{
                     "players":{
                         "min":1,
-                        "max":8
+                        "max":100
                     },
-                    "length":"15 - 20 minutos",
+                    "length":"5 - 10 minutos",
                     "playtime":{
-                        "min":15,
-                        "max":20
+                        "min":5,
+                        "max":10
                     },
                     "family_friendly":"OPTIONAL",
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
+                    "stream_friendly_description":"Este juego puede jugarse en streams, pero es necesario que quienes estén adivinando no miren la pantalla del stream mientras lo hacen.",
                     "moderation":"FULL_MODERATION",
                     "moderation_description":"Este juego no requiere moderación.",
-                    "subtitles":true,
-                    "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "subtitles":false,
+                    "type":"TEAM",
+                    "translation":"NATIVELY_TRANSLATED",
                     "tagline":"¡Es hora de adivinar!",
                     "small_description":"¡Es hora de adivinar!",
-                    "description":"¡Adivina todo lo que puedas en esta competición de palabras! ¿Quieres hacerlo más interesante? ¡Prueba el modo equipos y juega Competición!",
+                    "description":"¡Adivina todo lo que puedas en esta competición de palabras! ¿Quieres hacerlo más interesante? ¡Prueba el modo equipos y juega en Competición!",
                     "images":[
                         "game_images/Charadas/charadas.mp4",
                         "game_images/Charadas/charadas_1.jpg",
