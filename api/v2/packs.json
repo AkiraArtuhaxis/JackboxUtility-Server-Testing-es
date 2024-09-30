@@ -851,6 +851,9 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": [
+						"mac"
+                    ],
                     "components":[
                 {
                             "id":"quiplash2_patch",
