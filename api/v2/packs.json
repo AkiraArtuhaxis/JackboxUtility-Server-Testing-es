@@ -2368,7 +2368,7 @@
             "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
         },
         "executables":{
-            "windows":"The Jackbox Party Pack 7.exe",
+            "windows":"TJPP7.exe",
             "mac":"The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
             "linux":"Launcher.sh"
         },
@@ -2378,15 +2378,14 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion"
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 7.app/Contents/Resources/macos"
         },
         "store_links":{
-            "steam":"https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
-            "epic":"https://store.epicgames.com/p/jackbox-party-pack-7"
+            "jackbox_games_store":"https://www.xbox.com/games/store/the-jackbox-party-pack-7/9nrvf2p89zlx"
         },
             "patchs":[
                 {
@@ -2394,10 +2393,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\nLa Familia es un Infierno y Talking Points cuentan con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/latest/download/JPP7-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/latest/download/JPP7-ES-EGS-MS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
@@ -2484,10 +2483,10 @@
                     "name":"Cursed Points",
                     "small_description":"¡Mod traducido al español!",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/8.2-ES/CursedPointsAdditionES-CapyV2-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/8.2b-ES/CursedPointsES-CapyV2-ES-EGS-MS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
@@ -3227,7 +3226,7 @@
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
         },
         "executables":{
-            "windows":"The Jackbox Party Pack 9.exe",
+            "windows":"TJPP9.exe",
             "mac":"The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
             "linux":"Launcher.sh"
         },
@@ -3244,8 +3243,7 @@
         "mac":"The Jackbox Party Pack 9.app/Contents/Resources/macos"
     },
     "store_links":{
-        "steam":"https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/",
-        "epic":"https://store.epicgames.com/p/jackbox-party-pack-9"
+        "jackbox_games_store":"https://www.xbox.com/games/store/the-jackbox-party-pack-9/9n1738c045fr"
     },
         "patchs":[
             {
@@ -3253,7 +3251,7 @@
                 "name":"Cambio de dominios a Jackbox.lol",
                 "small_description":"Pack localizado oficialmente en latino y castellano.\nEste parche cambia los dominios a Jackbox.lol y realiza algunas correcciones menores.",
                 "description":"",
-		        "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/releases/latest/download/JPP9-ES.zip",
+		        "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/releases/latest/download/JPP9-ES-EGS-MS-SWITCH.zip",
                 "configuration": {
 						"version_origin":"repo_file",
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/main/Main/jbg.config.jet",
@@ -3616,7 +3614,7 @@
             "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
         },
         "executables": {
-            "windows": "The Jackbox Party Pack 10.exe",
+            "windows": "TJPP10.exe",
             "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
             "linux": "Launcher.sh"
         },
@@ -3633,8 +3631,7 @@
             "mac":"The Jackbox Party Pack 10.app/Contents/Resources/macos"
         },
         "store_links": {
-            "steam": "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/",
-            "epic": "https://store.epicgames.com/p/the-jackbox-party-pack-10-c6f152"
+            "jackbox_games_store": "https://www.xbox.com/es-AR/games/store/the-jackbox-party-pack-10/9p558fw2w073"
         },
         "patchs":[
             {
@@ -3990,7 +3987,7 @@
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
         },
         "executables":{
-            "windows":"The Jackbox Party Starter.exe",
+            "windows":"TJPS.exe",
             "mac":"The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Starter",
             "linux":"Launcher.sh"
         },
@@ -4007,8 +4004,7 @@
             "mac":"The Jackbox Party Starter.app/Contents/Resources/macos"
         },
         "store_links":{
-            "steam":"https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/",
-            "epic":"https://store.epicgames.com/p/jackbox-party-starter"
+            "jackbox_games_store":"https://www.xbox.com/games/store/the-jackbox-party-starter/9p59q5khc5dm"
         },
             "patchs":[
                 {
@@ -4242,7 +4238,7 @@
             "epic": "a0cb04062cfb4e38b79cb076003a2cfe"
         },
         "executables": {
-            "windows": "The Jackbox Naughty Pack.exe",
+            "windows": "JNP.exe",
             "mac": "The Jackbox Naughty Pack.app/Contents/MacOS/The Jackbox Naughty Pack",
             "linux": "Launcher.sh"
         },
@@ -4259,8 +4255,7 @@
             "mac":"The Jackbox Naughty Pack.app/Contents/Resources/macos"
         },
         "store_links": {
-            "steam": "https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/",
-            "epic": "https://store.epicgames.com/p/jackbox-naughty-pack-0bffd7"
+            "jackbox_games_store":"https://www.xbox.com/games/store/the-jackbox-naughty-pack/9N1CXS3C4RLS/0010"
         },
         "patchs": [],
         "games": [
@@ -4425,7 +4420,7 @@
             "epic": "6d2e6c642bf14068bad5388651538450"
         },
         "executables": {
-            "windows": "The Jackbox Survey Scramble.exe",
+            "windows": "TJSS.exe",
             "mac": "The Jackbox Survey Scramble.app/Contents/MacOS/The Jackbox Survey Scramble",
             "linux": "Launcher.sh"
         },
@@ -4442,8 +4437,7 @@
             "mac": "The Jackbox Survey Scramble.app/Contents/Resources/macos"
         },
         "store_links": {
-            "steam": "https://store.steampowered.com/app/2948640/The_Jackbox_Survey_Scramble/",
-            "epic": "https://store.epicgames.com/de/p/the-jackbox-survey-scramble-8cfeb4"
+            "jackbox_games_store":"https://www.xbox.com/games/store/the-jackbox-survey-scramble/9N0GR077VG2S/0010"
         },
         "patchs": [],
         "games": [
