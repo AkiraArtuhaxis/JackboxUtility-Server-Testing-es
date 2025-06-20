@@ -1,0 +1,54 @@
+{
+  "menuComponent" : {
+    "type":"column",
+    "children":[
+      {
+        "type":"text",
+        "text":"Cooles Party Pack 7 Update"
+      },
+      {
+        "type":"countdown",
+        "endText":"Patch verfügbar",
+        "endTime":"2026-08-06 15:00:00"
+      }
+    ]
+  },
+  "gamesComponent" : [
+    {
+      "component":{
+        "type":"column",
+        "children":[
+          {
+            "type":"text",
+            "text":"Cooles Party Pack 7 Update"
+          },
+          {
+            "type":"countdown",
+            "endText":"Patch verfügbar",
+            "endTime":"2026-08-06 15:00:00"
+          }
+        ]
+      },
+      "gameId":"blatherround"
+    }
+  ],
+  "patchesComponent" : [
+    {
+      "component":{
+        "type":"column",
+        "children":[
+          {
+            "type":"text",
+            "text":"Cooles Party Pack 7 Update"
+          },
+          {
+            "type":"countdown",
+            "endText":"Patch verfügbar",
+            "endTime":"2026-08-06 15:00:00"
+          }
+        ]
+      },
+      "packId":"jpp7"
+    }
+  ]
+}
