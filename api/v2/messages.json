@@ -4,7 +4,7 @@
     "children":[
       {
         "type":"text",
-        "text":"####Usuarios de Epic Games Store:"
+        "text":"<h4>Usuarios de Epic Games Store:</h4>"
       },
       {
         "type":"text",
@@ -12,7 +12,7 @@
       },
       {
         "type":"text",
-        "text":"deben **ingresar a la sección \"Ajustes\"** al menos una vez."
+        "text":"deben <strong>ingresar a la sección \"Ajustes\"</strong> al menos una vez."
       },
       {
         "type":"text",
@@ -20,15 +20,15 @@
       },
       {
         "type":"text",
-        "text":"####Usuarios de Microsoft Store:"
+        "text":"<h4>Usuarios de Microsoft Store:</h4>"
       },
             {
         "type":"text",
-        "text":"Estas versiones deben **añadirse manualmente** desde la sección \"Ajustes\"."
+        "text":"Estas versiones deben <strong>añadirse manualmente</strong> desde la sección \"Ajustes\"."
       },
       {
         "type":"text",
-        "text":"Se debe seleccionar la carpeta \"**Content**\" dentro de la carpeta de cada juego."
+        "text":"Se debe seleccionar la carpeta \"<strong>Content</strong>\" dentro de la carpeta de cada juego."
       }
     ]
   },
