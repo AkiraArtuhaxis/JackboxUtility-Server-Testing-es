@@ -8,7 +8,16 @@
       },
       {
         "type":"countdown",
-        "endText":"Por favor ingresen a la sección \"Ajustes\" al menos una vez.",
+        "endText":"Por favor ingresen a la sección \"Ajustes\" al menos una vez antes de instalar cualquier parche.",
+        "endTime":"2023-08-06 15:00:00"
+      },
+      {
+        "type":"text",
+        "text":"Usuarios de Microsoft Store:"
+      },
+      {
+        "type":"countdown",
+        "endText":"Los juegos deben añadirse manualmente desde la sección \"Ajustes\". Se debe añadir la carpeta \"Content\" de cada juego.",
         "endTime":"2023-08-06 15:00:00"
       }
     ]
