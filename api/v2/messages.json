@@ -4,11 +4,35 @@
     "children":[
       {
         "type":"text",
-        "text":"Usuarios de Epic Games Store:\nPor favor ingresen a la sección \"Ajustes\" al menos\nuna vez antes de instalar cualquier parche.\n"
+        "text":"Usuarios de Epic Games Store:"
       },
       {
         "type":"text",
-        "text":"Usuarios de Microsoft Store:\nLos juegos deben añadirse manualmente desde la sección \"Ajustes\".\nSe debe añadir la carpeta \"Content\" de cada juego."
+        "text":"Por favor ingresen a la sección \"Ajustes\" al menos"
+      },
+      {
+        "type":"text",
+        "text":"una vez antes de instalar cualquier parche.\n"
+      },
+      {
+        "type":"text",
+        "text":""
+      },
+      {
+        "type":"text",
+        "text":""
+      },
+      {
+        "type":"text",
+        "text":"Usuarios de Microsoft Store:"
+      },
+            {
+        "type":"text",
+        "text":"Los juegos deben añadirse manualmente desde la sección \"Ajustes\"."
+      },
+      {
+        "type":"text",
+        "text":"Se debe añadir la carpeta \"Content\" de cada juego."
       }
     ]
   },
