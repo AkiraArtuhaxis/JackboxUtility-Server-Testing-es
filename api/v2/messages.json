@@ -4,51 +4,15 @@
     "children":[
       {
         "type":"text",
-        "text":"Cooles Party Pack 7 Update"
+        "text":"Usuarios de Epic Games Store:"
       },
       {
         "type":"countdown",
-        "endText":"Patch verfügbar",
-        "endTime":"2026-08-06 15:00:00"
+        "endText":"Por favor ingresen a la sección \"Ajustes\" al menos una vez.",
+        "endTime":"2023-08-06 15:00:00"
       }
     ]
   },
-  "gamesComponent" : [
-    {
-      "component":{
-        "type":"column",
-        "children":[
-          {
-            "type":"text",
-            "text":"Cooles Party Pack 7 Update"
-          },
-          {
-            "type":"countdown",
-            "endText":"Patch verfügbar",
-            "endTime":"2026-08-06 15:00:00"
-          }
-        ]
-      },
-      "gameId":"blatherround"
-    }
-  ],
-  "patchesComponent" : [
-    {
-      "component":{
-        "type":"column",
-        "children":[
-          {
-            "type":"text",
-            "text":"Cooles Party Pack 7 Update"
-          },
-          {
-            "type":"countdown",
-            "endText":"Patch verfügbar",
-            "endTime":"2026-08-06 15:00:00"
-          }
-        ]
-      },
-      "packId":"jpp7"
-    }
-  ]
+  "gamesComponent" : [],
+  "patchesComponent" : []
 }
