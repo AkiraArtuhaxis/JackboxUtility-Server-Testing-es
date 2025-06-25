@@ -50,7 +50,7 @@
     {
         "id":"jpp1",
         "name":"The Jackbox Party Pack",
-        "description":"El primer paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2014",
         "launchers_id":{
             "steam":"331670",
             "epic":"Feverfew"
@@ -415,7 +415,7 @@
     {
         "id":"jpp2",
         "name":"The Jackbox Party Pack 2",
-        "description":"El segundo paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2015",
         "launchers_id":{
             "steam":"397460",
             "epic":"Lilac"
@@ -802,7 +802,7 @@
     {
         "id":"jpp3",
         "name":"The Jackbox Party Pack 3",
-        "description":"El tercer paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2016",
         "launchers_id":{
             "steam":"434170",
             "epic":"Orchid"
@@ -1191,7 +1191,7 @@
     {
         "id":"jpp4",
         "name":"The Jackbox Party Pack 4",
-        "description":"El cuarto paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2017",
         "launchers_id":{
             "steam":"610180",
             "epic":"Snowdrop"
@@ -1579,7 +1579,7 @@
     {
         "id":"jpp5",
         "name":"The Jackbox Party Pack 5",
-        "description":"El quinto paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2018",
         "launchers_id":{
             "steam":"774461",
             "epic":"Geranium"
@@ -1969,7 +1969,7 @@
     {
         "id":"jpp6",
         "name":"The Jackbox Party Pack 6",
-        "description":"El sexto paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2019",
         "launchers_id":{
             "steam":"1005300",
             "epic":"Astrapia"
@@ -2362,7 +2362,7 @@
     {
         "id":"jpp7",
         "name":"The Jackbox Party Pack 7",
-        "description":"El séptimo paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2020",
         "launchers_id":{
             "steam":"1211630",
             "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
@@ -2831,7 +2831,7 @@
     {
         "id":"jpp8",
         "name":"The Jackbox Party Pack 8",
-        "description":"El octavo paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2021",
         "launchers_id":{
             "steam":"1552350",
             "epic":"67003fc4eaa444608acf083a08dc907e"
@@ -3221,7 +3221,7 @@
     {
         "id":"jpp9",
         "name":"The Jackbox Party Pack 9",
-        "description":"El noveno paquete de fiestas de Jackbox",
+        "description":"Año de lanzamiento: 2022",
         "launchers_id":{
             "steam":"1850960",
             "epic":"ec6f77d356b247dc8d210850de8a3e2f"
@@ -3610,7 +3610,7 @@
     {
         "id": "jpp10",
         "name": "The Jackbox Party Pack 10",
-        "description": "El décimo paquete de fiestas de Jackbox",
+        "description": "Año de lanzamiento: 2023",
         "launchers_id": {
             "steam": "2216830",
             "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
@@ -3984,7 +3984,7 @@
     {
         "id":"jpstarter",
         "name":"The Jackbox Party Starter",
-        "description":"El paquete de fiestas esencial de Jackbox",
+        "description":"Año de lanzamiento: 2022",
         "launchers_id":{
             "steam":"1755580",
             "epic":"dc6b83bf4b94436db882f770ed8d5257"
@@ -4236,7 +4236,7 @@
     {
         "id": "jnp",
         "name": "The Jackbox Naughty Pack",
-        "description": "El pícaro paquete de fiestas de Jackbox",
+        "description": "Año de lanzamiento: 2024",
         "launchers_id": {
             "steam": "2652000",
             "epic": "a0cb04062cfb4e38b79cb076003a2cfe"
@@ -4419,7 +4419,7 @@
     {
         "id": "jss",
         "name": "The Jackbox Survey Scramble",
-        "description": "Year of release: 2024",
+        "description": "Año de lanzamiento: 2024",
         "launchers_id": {
             "steam": "2948640",
             "epic": "6d2e6c642bf14068bad5388651538450"
@@ -4507,7 +4507,7 @@
     {
         "id":"fbxl",
         "name":"Fibbage XL",
-        "description":"¡Que gane el mejor mentiroso!",
+        "description":"Año de lanzamiento: 2016",
         "launchers_id":{
             "steam":"448080"
         },
@@ -4617,7 +4617,7 @@
     {
         "id":"quip",
         "name":"Quiplash",
-        "description":"Sé el más divertido",
+        "description":"Año de lanzamiento: 2015",
         "launchers_id":{
             "steam":"351510"
         },
@@ -4762,7 +4762,7 @@
     {
         "id":"quip2int",
         "name":"Quiplash 2 InterLASHional",
-        "description":"Sé el más divertido",
+        "description":"Año de lanzamiento: 2020",
         "launchers_id":{
             "steam":"1111940",
             "epic": "e912e6d9595b4ff3a7257bcdc82b6671"
@@ -4909,7 +4909,7 @@
     {
         "id":"df2",
         "name":"Drawful 2",
-        "description":"¡Dibuja mal con estilo!",
+        "description":"Año de lanzamiento: 2016",
         "launchers_id":{
             "steam":"442070",
             "epic":"Daisy"
@@ -5057,7 +5057,7 @@
     {
         "id":"uyw",
         "name":"Usa Tus Palabras",
-        "description":"Fiesta de palabras",
+        "description":"Año de lanzamiento: 2017",
         "launchers_id":{
             "steam":"521350"
         },
@@ -5159,7 +5159,7 @@
     {
         "id":"wtd",
         "name":"What The Dub?!",
-        "description":"Doblajes de locura",
+        "description":"Año de lanzamiento: 2021",
         "launchers_id":{
             "steam":"1495860"
         },
@@ -5291,7 +5291,7 @@
     {
         "id":"rttg",
         "name":"RiffTrax: The Game",
-        "description":"¡Hora de los riffs!",
+        "description":"Año de lanzamiento: 2022",
         "launchers_id":{
             "steam":"1707870"
         },
