@@ -432,7 +432,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 2.app/Contents/Resources/macos"
@@ -453,6 +458,192 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
+                    "components":[
+                {
+                            "id":"fibbage2_patch",
+                            "linked_game":"fibbage2",
+                            "name":"Fibbage 2",
+                            "description":"",
+                            "authors":"* Akira896 (traducción e imágenes)\n* Fukken Hanzel (imágenes adicionales)\n* Fixed Fun (videos)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"earwax_patch",
+                            "linked_game":"earwax",
+                            "name":"Earwax",
+                            "description":"",
+                            "authors":"Traducción\n* Radioactive Man\n* Akira896 (revisión y SWFs)\n* Artuhaxis (revisión)\nDoblaje\n* Artuhaxis (anfitrión, guion y recorte de audios)\n* Eleiber (guion)\n* Akira896 (supervisión, voz masculina adicional, recorte de audios y ecualización de audios)\n* Ana Fernández (voz femenina)\n* Nico Svirnovsky (voz masculina)\n* BinaryPie (voz del viejo)\n* Akira896, Ernesto Fernández, Santiago Giordani, Rocío Benítez Blasco, Valentina Dogovich y Olivia Vulcano (voces de la multitud)",
+                            "small_description":"¡Juego traducido y doblado al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":true
+                            }
+                        },
+                {
+                            "id":"bidiots_patch",
+                            "linked_game":"bidiots",
+                            "name":"Subastardos",
+                            "description":"",
+                            "authors":"* Radioactive Man\n* Akira896 (SWFs y revisión)\n* Artuhaxis y Fixed Fun (imágenes)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                {
+                            "id":"quiplashxl_patch",
+                            "linked_game":"quiplashxl",
+                            "name":"Quiplash XL",
+                            "description":"",
+                            "authors":"* Radioactive Man (usa sus aportes a la traducción de Quiplash 1)\n* Artuhaxis (traducción)\n* Akira896 (SWFs, asistencia e imágenes)\n* Fixed Fun (imágenes de rondas)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                {
+                            "id":"bombcorp_patch",
+                            "linked_game":"bombcorp",
+                            "name":"Bomba S.A.",
+                            "description":"",
+                            "authors":"* Markmtz90\n* Akira896 (revisión)\n* Artuhaxis y TheDarkSid3r (ayuda adicional)\n* Fixed Fun (título)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        }
+                    ]
+                    
+                },
+                {
+                    "id":"jpp2_es",
+                    "name":"Traducción al Español Latino",
+                    "small_description":"Pack 100% traducido.\nEarwax cuenta con doblaje latino.",
+                    "description":"",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/releases/latest/download/JPP2-ES-EGS-SWITCH.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/ArchivosEGSySwitch/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers": ["epic","native"],
+                    "components":[
+                {
+                            "id":"fibbage2_patch",
+                            "linked_game":"fibbage2",
+                            "name":"Fibbage 2",
+                            "description":"",
+                            "authors":"* Akira896 (traducción e imágenes)\n* Fukken Hanzel (imágenes adicionales)\n* Fixed Fun (videos)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"earwax_patch",
+                            "linked_game":"earwax",
+                            "name":"Earwax",
+                            "description":"",
+                            "authors":"Traducción\n* Radioactive Man\n* Akira896 (revisión y SWFs)\n* Artuhaxis (revisión)\nDoblaje\n* Artuhaxis (anfitrión, guion y recorte de audios)\n* Eleiber (guion)\n* Akira896 (supervisión, voz masculina adicional, recorte de audios y ecualización de audios)\n* Ana Fernández (voz femenina)\n* Nico Svirnovsky (voz masculina)\n* BinaryPie (voz del viejo)\n* Akira896, Ernesto Fernández, Santiago Giordani, Rocío Benítez Blasco, Valentina Dogovich y Olivia Vulcano (voces de la multitud)",
+                            "small_description":"¡Juego traducido y doblado al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":true
+                            }
+                        },
+                {
+                            "id":"bidiots_patch",
+                            "linked_game":"bidiots",
+                            "name":"Subastardos",
+                            "description":"",
+                            "authors":"* Radioactive Man\n* Akira896 (SWFs y revisión)\n* Artuhaxis y Fixed Fun (imágenes)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                {
+                            "id":"quiplashxl_patch",
+                            "linked_game":"quiplashxl",
+                            "name":"Quiplash XL",
+                            "description":"",
+                            "authors":"* Radioactive Man (usa sus aportes a la traducción de Quiplash 1)\n* Artuhaxis (traducción)\n* Akira896 (SWFs, asistencia e imágenes)\n* Fixed Fun (imágenes de rondas)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                {
+                            "id":"bombcorp_patch",
+                            "linked_game":"bombcorp",
+                            "name":"Bomba S.A.",
+                            "description":"",
+                            "authors":"* Markmtz90\n* Akira896 (revisión)\n* Artuhaxis y TheDarkSid3r (ayuda adicional)\n* Fixed Fun (título)",
+                            "small_description":"¡Juego traducido al español!",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":true,
+                                "audios":false
+                            }
+                        }
+                    ]
+                    
+                },
+                {
+                    "id":"jpp2_es",
+                    "name":"Traducción al Español Latino",
+                    "small_description":"Pack 100% traducido.\nEarwax cuenta con doblaje latino.",
+                    "description":"",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/releases/latest/download/JPP2-ES-MAC-EGS.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/ArchivosEGSySwitch/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "supported_platforms": ["mac"],
+                    "supported_launchers": ["epic"],
                     "components":[
                 {
                             "id":"fibbage2_patch",
