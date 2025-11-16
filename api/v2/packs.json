@@ -93,6 +93,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-1-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                         {
                             "id":"drawful_patch",
@@ -432,7 +434,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 2.app/Contents/Resources/macos"
@@ -453,6 +460,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"fibbage2_patch",
@@ -819,7 +828,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 3.app/Contents/Resources/macos"
@@ -840,6 +854,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"quiplash2_patch",
@@ -1208,7 +1224,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 4.app/Contents/Resources/macos"
@@ -1229,6 +1250,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"fibbage3_patch",
@@ -1596,7 +1619,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 5.app/Contents/Resources/macos"
@@ -1617,6 +1645,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"ydkj_fullstream_patch",
@@ -1986,7 +2016,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 6.app/Contents/Resources/macos"
@@ -2007,6 +2042,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-6-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"trivia_murder_party_2_patch",
@@ -2379,7 +2416,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 7.app/Contents/Resources/macos"
@@ -2400,6 +2442,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"quiplash3_patch",
@@ -2490,6 +2534,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                         "id":"cursedpoints_patch",
@@ -2848,7 +2894,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Pack 8.app/Contents/Resources/macos"
@@ -2869,6 +2920,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                         {
                             "id":"drawful_animate_patch",
@@ -3238,7 +3291,12 @@
     "configuration":{
         "version_origin":"game_file",
         "version_file":"jbg.config.jet",
-        "version_property":"buildVersion"
+        "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "jbg.config.jet",
+                "native": "jbg.config.jet"
+                }
 	},
     "resource_location":{
         "mac":"The Jackbox Party Pack 9.app/Contents/Resources/macos"
@@ -3259,6 +3317,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                "supported_platforms": ["windows","linux","mac"],
+                "supported_launchers": ["steam","native"],
                 "components":[
                     {
                         "id":"fibbage4_patch",
@@ -3648,6 +3708,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-10-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                "supported_platforms": ["windows","linux","mac"],
+                "supported_launchers": ["steam","native","epic"],
                 "components":[
                     {
                         "id":"teeko2_patch",
@@ -4357,7 +4419,12 @@
         "configuration":{
 	        "version_origin":"game_file",
             "version_file":"jbg.config.jet",
-            "version_property":"buildVersion"
+            "version_property":"buildVersion",
+            "launcher_version_file" : {
+                "steam": "jbg.config.jet",
+                "epic_games": "jbg.config.jet",
+                "native": "jbg.config.jet"
+                }
         },
         "resource_location":{
             "mac":"The Jackbox Party Starter.app/Contents/Resources/macos"
@@ -4378,6 +4445,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Starter-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native","epic"],
                     "components":[
                         {
                             "id":"quiplash3_starter_patch",
@@ -4630,6 +4699,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Naughty-Pack-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                "supported_platforms": ["windows","linux","mac"],
+                "supported_launchers": ["steam","native","epic"],
                 "components":[
                     {
                         "id":"fakinitanl_patch",
@@ -4874,6 +4945,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Survey-Scramble-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                "supported_platforms": ["windows","linux","mac"],
+                "supported_launchers": ["steam","native","epic"],
                 "components":[
 		    {
                         "id":"surveyscramble_patch",
@@ -4988,6 +5061,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Fibbage-XL-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"fibbagexl_standalone_patch",
@@ -5075,7 +5150,7 @@
             "linux":"Launcher.sh"
         },
         "loader":{
-            "path":"loaders/standalones/default.zip",
+            "path":"loaders/standalones/quiplashdefault.zip",
             "version":"1.0.0"
         },
         "configuration":{
@@ -5084,7 +5159,7 @@
             "version_property":"buildVersion"
         },
         "resource_location":{
-            "mac":"Quiplash.app/Contents/Resources/macos"
+            "mac":""
         },
         "store_links":{
             "steam":"https://store.steampowered.com/app/351510/Quiplash/"
@@ -5101,6 +5176,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Quiplash-Quip-Pack-1-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"quiplash_patch",
@@ -5131,6 +5208,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Quiplash-Quip-Pack-1-Spanish/main/Main[Spain]/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"quiplash_patch_spain",
@@ -5248,6 +5327,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Quiplash-2-InterLASHional-Latin-American-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native","epic"],
                     "components":[
                 {
                             "id":"quiplash2interlashional_patch",
@@ -5278,6 +5359,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Quiplash-2-InterLASHional-Latin-American-Spanish/main/Main[Spain]/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native","epic"],
                     "components":[
                 {
                             "id":"quiplash2interlashional_spain_patch",
@@ -5395,6 +5478,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Drawful-2-Latin-American-Spanish/main/Main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"drawful_2_patch",
@@ -5425,6 +5510,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Drawful-2-Latin-American-Spanish/main/Main[Spain]/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"drawful_2_spain_patch",
@@ -5537,6 +5624,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/Use-Your-Words-Spanish/main/Main/config.dat",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"use_your_words_patch",
@@ -5639,6 +5728,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/What-The-Dub-Spanish/main/Main/config.dat",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"what_the_dub_patch",
@@ -5669,6 +5760,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/What-The-Dub-Spanish/main/ArchivosCastellano/config.dat",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"what_the_dub_spain_patch",
@@ -5771,6 +5864,8 @@
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/RiffTrax-The-Game-Spanish/main/Main/config.dat",
 						"version_property":"buildVersion"
 					},
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                             "id":"rifftrax_the_game_patch",
