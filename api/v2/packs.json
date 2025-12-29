@@ -4096,7 +4096,7 @@
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
-                                "website": false,
+                                "website": true,
                                 "audios": false
                             }
                         },
@@ -4126,7 +4126,7 @@
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
-                                "website": false,
+                                "website": true,
                                 "audios": false
                             }
                         },
